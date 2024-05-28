@@ -1,4 +1,3 @@
-# Grupo 1: Danilo; Heitor; Justo; Julia ; Rafael; Vinicius;
 # Jogo da forca
 import random
 
